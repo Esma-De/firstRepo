@@ -9,3 +9,4 @@ trigger RestrictContactByName on Contact (before insert, before update) {
 		}
 	}
 }
+//tekrar update ettim
